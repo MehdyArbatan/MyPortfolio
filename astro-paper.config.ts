@@ -32,7 +32,7 @@ export default defineAstroPaperConfig({
     { name: "github",   url: "https://github.com/MehdyArbatan" },
  // { name: "x",        url: "https://x.com/username" },
     { name: "linkedin", url: "https://www.linkedin.com/in/mehdi-akbarzadeh/" },
-    { name: "mail",     url: "mailto:Mehdi.Arbatan@gmail.com" },
+    { name: "mail",     url: "mailto:Mehdy.Arbatan@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
