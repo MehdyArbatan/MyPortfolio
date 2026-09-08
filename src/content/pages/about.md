@@ -3,7 +3,8 @@ title: "About"
 description: "A bit about me."
 ---
 ## Who Am I?
-I am a Mechanical and Piping Engineer specializing in piping engineering and plant design automation. I bridge the gap between piping design principles and software architecture to eliminate human error, increase speed, and improve precision across the plant design lifecycle.
+I am a Mechanical and Piping Engineer specializing in Plant Design activities. <br>
+Beside Piping engineering activities from Basic to Detail design, I bridge the gap between Piping design principles and software architecture to eliminate human error, increase speed, and improve precision across the plant design lifecycle by creating **automated software solutions** and embed **AI agents** inside Plant Design softwares.
 
 ## Availability & Consulting
 I am positioned to act as a low-risk, high-impact asset for EPCs facing bottlenecks:
