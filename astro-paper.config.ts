@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "Mehdi Akbarzadeh | Plant Design Automation",
+    title: "M.Akbarzadeh | Plant Design Automation",
     description: "Plant Design Automation Developer & Mechanical/Piping Engineer",
     author: "Mehdi Akbarzadeh",
     profile: "https://satna.ing",
@@ -29,10 +29,10 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "https://github.com/MehdyArbatan" },
+ // { name: "x",        url: "https://x.com/username" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/mehdi-akbarzadeh/" },
+    { name: "mail",     url: "mailto:Mehdi.Arbatan@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },

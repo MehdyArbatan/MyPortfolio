@@ -1,37 +1,16 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "A bit about me."
 ---
+## Who Am I?
+I am a Mechanical and Piping Engineer specializing in piping engineering and plant design automation. I bridge the gap between piping design principles and software architecture to eliminate human error, increase speed, and improve precision across the plant design lifecycle.
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## Availability & Consulting
+I am positioned to act as a low-risk, high-impact asset for EPCs facing bottlenecks:
+- **Proof of Concept (PoC) Consulting:** Available for highly-scoped, remote trial projects (e.g., a 10-hour sprint) to demonstrate my capabilities on your specific workflow issues.
+- **Cross-Border Relocation:** Fully eligible for the German Opportunity Card (*Chancenkarte*) and the Dutch Highly Educated Persons visa for seamless international hiring[cite: 1].
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
-
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
-
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+## Language & Integration Strategy
+- **English:** Full Professional Proficiency (IELTS 8.0)
+- **Persian:** Native
+- **German:** A2 — Maintaining an active daily progression [cite: 1].
