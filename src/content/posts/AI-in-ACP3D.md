@@ -27,4 +27,4 @@ To demonstrate the feasibility of natural language interaction inside industrial
 This Proof of Concept (PoC) proves that modern AI Large Language Models (LLMs) can be successfully integrated into plant design software. It opens the door for future capabilities like conversational P&ID auditing, automated component placement, and instant database querying.
 
 ## 4. Video Demonstration
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_YOUTUBE_VIDEO_ID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=s-gw4zM3Q9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
