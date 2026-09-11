@@ -3,8 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: `M.Akbarzadeh
-            Plant Design Automation`,
+    title: "M.Akbarzadeh | Plant Design Automation",
     description: "Plant Design Automation Developer & Mechanical/Piping Engineer",
     author: "Mehdi Akbarzadeh",
     profile: "https://satna.ing",
@@ -24,8 +23,8 @@ export default defineAstroPaperConfig({
     showArchives: true,
     showBackButton: true,
     editPost: {
-      enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      enabled: false,
+      //url: "https://github.com/satnaing/astro-paper/edit/main/",
     },
     search: "pagefind",
   },
