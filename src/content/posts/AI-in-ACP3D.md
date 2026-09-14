@@ -10,7 +10,6 @@ tags:
   - C#
   - AI
   - API
-  - Innovation
 description: An experimental C# plugin integrating Google's Gemini AI SDK directly inside AutoCAD Plant 3D to execute commands given by the user.
 ---
 
