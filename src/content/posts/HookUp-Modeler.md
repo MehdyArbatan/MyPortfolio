@@ -32,7 +32,7 @@ This macro will reduce the modeling time of each assembly from an average of 5 m
 <iframe 
   width="100%" 
   height="400" 
-  src="https://www.youtube.com/watch?v=R8X6r9Ouv-Q" 
+  src="https://www.youtube.com/embed/R8X6r9Ouv-Q" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
