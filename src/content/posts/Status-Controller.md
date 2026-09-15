@@ -31,8 +31,8 @@ This allows decision-makers to see at a glance which areas are finished, in prog
 
 *(In the snapshots below, progress highlighting scales from light green for lower progress to dark green for higher progress, with red indicating HOLD lines).*
 
+![Macro Interface and Reporting](../../assets/images/SC-E3D.jpg)
+
 ![Navisworks Visual Status Highlight 1](../../assets/images/SC-NW1.jpg)
 
 ![Navisworks Visual Status Highlight 2](../../assets/images/SC-NW2.jpg)
-
-![Macro Interface and Reporting](../../assets/images/SC-E3D.jpg)
