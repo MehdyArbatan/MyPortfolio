@@ -1,8 +1,3 @@
-**Replace** your entire `index.astro` file with the code below. Do not append it.
-
-This updated code perfectly preserves your Astro translations, RSS feed, social icons, and layout scripts, while replacing the default "Featured/Recent" sections with the specific "Software Solutions" and "EPC Projects" split driven by your tags.
-
-```astro
 ---
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
@@ -142,5 +137,3 @@ const homePath = getRelativeLocaleUrl(locale, "");
     }
   });
 </script>
-
-```
