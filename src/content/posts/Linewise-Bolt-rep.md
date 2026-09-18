@@ -6,6 +6,7 @@ postSlug: line-wise-bolt-mto-extractor
 featured: false
 draft: false
 tags:
+  - Software Solutions
   - AVEVA PDMS
   - PML
 description: A custom PML utility in AVEVA PDMS that extracts line-wise bolt reports with batch line input capabilities to streamline Bolt MTOs.

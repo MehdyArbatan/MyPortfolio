@@ -1,3 +1,8 @@
+**Replace** your entire `index.astro` file with the code below. Do not append it.
+
+This updated code perfectly preserves your Astro translations, RSS feed, social icons, and layout scripts, while replacing the default "Featured/Recent" sections with the specific "Software Solutions" and "EPC Projects" split driven by your tags.
+
+```astro
 ---
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
@@ -18,10 +23,19 @@ const { socials, posts: postsConfig } = config;
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 
+// Fetch and sort all posts
 const posts = await getCollection("posts");
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
+
+// Filter posts by primary tags for the split layout
+const softwareSolutions = sortedPosts
+  .filter(({ data }) => data.tags.includes("Software Solutions"))
+  .slice(0, postsConfig.perIndex);
+
+const epcProjects = sortedPosts
+  .filter(({ data }) => data.tags.includes("EPC Projects"))
+  .slice(0, postsConfig.perIndex);
+
 const homePath = getRelativeLocaleUrl(locale, "");
 ---
 
@@ -71,19 +85,20 @@ const homePath = getRelativeLocaleUrl(locale, "");
     </section>
 
     {
-      featuredPosts.length > 0 && (
+      softwareSolutions.length > 0 && (
         <section
-          id="featured"
+          id="software-solutions"
           class:list={[
             "pt-12 pb-6",
-            { "border-border border-b": recentPosts.length > 0 },
+            { "border-border border-b": epcProjects.length > 0 },
           ]}
         >
           <h2 class="text-2xl font-semibold tracking-wide">
-            {t.home.featured}
+            Software Solutions
           </h2>
+          <p class="mb-4 text-sm opacity-80">Custom C# APIs, PML Macros, and CAD Automation Tools</p>
           <ul>
-            {featuredPosts.map(data => (
+            {softwareSolutions.map(data => (
               <Card variant="h3" {...data} />
             ))}
           </ul>
@@ -92,13 +107,14 @@ const homePath = getRelativeLocaleUrl(locale, "");
     }
 
     {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
+      epcProjects.length > 0 && (
+        <section id="epc-projects" class="pt-12 pb-6">
           <h2 class="text-2xl font-semibold tracking-wide">
-            {t.home.recentPosts}
+            EPC Engineering Experience
           </h2>
+          <p class="mb-4 text-sm opacity-80">Plant Design, Stress Integration, and Deliverable Verification</p>
           <ul>
-            {recentPosts.slice(0, postsConfig.perIndex).map(data => (
+            {epcProjects.map(data => (
               <Card variant="h3" {...data} />
             ))}
           </ul>
@@ -126,3 +142,5 @@ const homePath = getRelativeLocaleUrl(locale, "");
     }
   });
 </script>
+
+```

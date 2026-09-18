@@ -6,6 +6,7 @@ postSlug: aveva-status-control-navisworks-automation
 featured: true
 draft: false
 tags:
+  - Software Solutions
   - AVEVA E3D/PDMS
   - PML
   - Navisworks

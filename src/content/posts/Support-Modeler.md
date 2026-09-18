@@ -6,6 +6,7 @@ postSlug: pipe-support-modeling-interface
 featured: true
 draft: false
 tags:
+  - Software Solutions
   - AVEVA E3D/PDMS
   - PML
   - Pipe Supports

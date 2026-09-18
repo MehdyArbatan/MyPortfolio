@@ -6,6 +6,7 @@ postSlug: automated-hookup-piping-modeler
 featured: true
 draft: false
 tags:
+  - Software Solutions
   - AVEVA E3D/PDMS
   - PML
   - Instrumentation

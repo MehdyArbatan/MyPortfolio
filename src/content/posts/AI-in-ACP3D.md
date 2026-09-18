@@ -6,6 +6,7 @@ postSlug: embedded-ai-plant3d
 featured: true
 draft: false
 tags:
+  - Software Solutions
   - AutoCAD Plant 3D
   - C#
   - AI

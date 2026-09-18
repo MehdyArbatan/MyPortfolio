@@ -6,6 +6,7 @@ postSlug: caesar-aveva-e3d-pdms-integration
 featured: true
 draft: false
 tags:
+  - Software Solutions
   - AVEVA E3D/PDMS
   - CAESAR II
   - Automation

@@ -6,6 +6,7 @@ postSlug: aveva-pdms-to-e3d-form-migration-macro
 featured: false
 draft: false
 tags:
+  - Software Solutions
   - AVEVA E3D/PDMS
   - PML
 description: A transition utility in AVEVA E3D/PDMS that migrates legacy PDMS 12.1 PML forms and interfaces into AVEVA E3D to eliminate transition friction.
