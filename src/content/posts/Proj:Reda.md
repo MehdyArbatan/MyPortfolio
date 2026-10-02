@@ -1,12 +1,12 @@
 ---
 author: Mehdi Akbarzadeh
-pubDatetime: 2026-10-02T10:00:00Z
+pubDatetime: 2025-08-13T10:00:00Z
 title: "REDA Flare Skids & Pilot Piping Design: Spatial Constraint Optimization & Automation"
 postSlug: reda-flare-skids-pilot-piping-design
 featured: true
 draft: false
 tags:
-  - EPCD Projects
+  - EPC Projects
   - Flare
   - AutoCAD Plant 3D
   - Detail Design
