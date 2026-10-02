@@ -6,7 +6,7 @@ postSlug: reda-flare-skids-pilot-piping-design
 featured: true
 draft: false
 tags:
-  - EPC Projects
+  - EPCD Projects
   - Flare
   - AutoCAD Plant 3D
   - Detail Design
