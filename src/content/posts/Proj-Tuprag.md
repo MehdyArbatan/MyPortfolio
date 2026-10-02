@@ -6,7 +6,7 @@ postSlug: Tuprag-Gold-Mine
 featured: true
 draft: false
 tags:
-  - Software Solutions
+  - EPC Projects
   - Mining
   - AutoCAD Plant 3D
   - Detail Design
