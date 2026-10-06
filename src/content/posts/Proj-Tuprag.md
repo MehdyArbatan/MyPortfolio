@@ -2,7 +2,7 @@
 author: Mehdi Akbarzadeh
 pubDatetime: 2026-09-21T10:00:00Z
 title: "Gold Mine Agglomeration Stage Addition"
-postSlug: Tuprag-Gold-Mine
+postSlug: Gold-Mine
 featured: true
 draft: false
 tags:
@@ -11,10 +11,10 @@ tags:
   - AutoCAD Plant 3D
   - Detail Design
   - Turkiye
-description: The client (TÜPRAG Metal Madencilik) intends to build a new agglomeration circuit within the existing gold mine plant in Turkiye. I was acting as the Piping Lead engineer, responsible for issuing a complete set of deliverables along with the 3D model.
+description: The client intends to build a new agglomeration circuit within the existing gold mine plant in Turkiye. I was acting as the Piping Lead engineer, responsible for issuing a complete set of deliverables along with the 3D model.
 ---
 ## 1. Project Scope & Facility Scale
-The current <strong>Kışladağ Gold Mine Plant at Uşak province of Turkiye</strong> was planned to house a pair of Agglomeration equipments along with all the necessary facilities to include it in the current, on-going plant. Therefore, A complete Cyanide injection system along with a 10 meter-height Storage Tank, Injection Pumps, Flow Control Stations and all the necessary facilities was added to the current plant.
+The current Gold Mine Plant was planned to house a pair of Agglomeration equipments along with all the necessary facilities to include it in the current, on-going plant. Therefore, A complete Cyanide injection system along with a 10 meter-height Storage Tank, Injection Pumps, Flow Control Stations and all the necessary facilities was added to the current plant.
 New layout of the added facilities and piping network was in our scope to design and deliver via a complete list of Piping deliverables (Isometric Drawings, Piping Plans, MTOs and ...)
 
 ## 2. Core Engineering Challenges
@@ -30,15 +30,10 @@ I used Trimble Connect for real-time model sharing so there would be a seamless 
 
 ## 4. Final 3D Model & Deliverables
 *(Below are snapshots of the finalized 3D model demonstrating the complexity and scale of the completed piping design).*
+![3D Model View 3](../../assets/images/Tuprag-1.png)
 
-![3D Model View 1](../../assets/images/Tuprag-1.png)
+![3D Model View 3](../../assets/images/Tuprag-2.png)
 
-![3D Model View 2](../../assets/images/Tuprag-2.png)
-
-![3D Model View 3](../../assets/images/Tuprag-3.png)
+![3D Model View 4](../../assets/images/Tuprag-3.png)
 
 ![3D Model View 4](../../assets/images/Tuprag-4.png)
-
-![3D Model View 4](../../assets/images/Tuprag-5.png)
-
-![3D Model View 4](../../assets/images/Tuprag-6.png)
