@@ -2,8 +2,7 @@
 author: Mehdi Akbarzadeh
 pubDatetime: 2026-09-21T10:00:00Z
 title: "Gold Mine Agglomeration Stage Addition"
-postSlug: Gold-Mine
-featured: true
+featured: false
 draft: false
 tags:
   - EPC Projects
@@ -30,10 +29,10 @@ I used Trimble Connect for real-time model sharing so there would be a seamless 
 
 ## 4. Final 3D Model & Deliverables
 *(Below are snapshots of the finalized 3D model demonstrating the complexity and scale of the completed piping design).*
-![3D Model View 3](../../assets/images/Tuprag-1.png)
+![Solution Tank Piping](../../assets/images/Tuprag-1.png)
 
-![3D Model View 3](../../assets/images/Tuprag-2.png)
+![Compressed Air Area Piping](../../assets/images/Tuprag-2.png)
 
-![3D Model View 4](../../assets/images/Tuprag-3.png)
+![Agglomerator Area Piping](../../assets/images/Tuprag-3.png)
 
-![3D Model View 4](../../assets/images/Tuprag-4.png)
+![Control Statiosn for AGG Area Piping](../../assets/images/Tuprag-4.png)

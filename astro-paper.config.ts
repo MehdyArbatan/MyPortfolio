@@ -2,14 +2,14 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://mehdi-akbarzadeh.vercel.app/",
     title: "Plant Design Automation",
     description: "Plant Design Automation Developer & Mechanical/Piping Engineer",
     author: "Mehdi Akbarzadeh",
-    profile: "https://satna.ing",
+    profile: "https://www.linkedin.com/in/mehdi-akbarzadeh/",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Europe/Istanbul",
     dir: "ltr",
   },
   posts: {

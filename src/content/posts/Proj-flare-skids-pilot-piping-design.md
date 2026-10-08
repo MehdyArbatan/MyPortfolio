@@ -2,8 +2,7 @@
 author: Mehdi Akbarzadeh
 pubDatetime: 2025-08-13T10:00:00Z
 title: "Flare Skids & Pilot Piping Design: Spatial Constraint Optimization & Automation"
-postSlug: flare-skids-pilot-piping-design
-featured: true
+featured: false
 draft: false
 tags:
   - EPC Projects
@@ -32,10 +31,10 @@ To resolve the high component density and maintain strict compliance with ASME B
 ## 4. Final 3D Model & Deliverables
 *(Below are snapshots of the finalized 3D model demonstrating the skid layout, JB door clearances, and pilot piping configurations).*
 
-![3D Model View 1](../../assets/images/Reda-1.png)
+![Overall View of the Project](../../assets/images/Reda-1.png)
 
-![3D Model View 2](../../assets/images/Reda-2.png)
+![Amonia Skid Detail View](../../assets/images/Reda-2.png)
 
-![3D Model View 3](../../assets/images/Reda-3.png)
+![Amonia Skid and Flare stack](../../assets/images/Reda-3.png)
 
-![3D Model View 4](../../assets/images/Reda-4.png)
+![Urea Skid Detail View ](../../assets/images/Reda-4.png)

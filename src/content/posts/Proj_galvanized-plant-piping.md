@@ -2,7 +2,6 @@
 author: Mehdi Akbarzadeh
 pubDatetime: 2024-12-25T10:00:00Z
 title: "Galvanizing Line Expansion: 5000+ Isometrics & Automated MTO Data Modeling"
-postSlug: galvanized-plant-piping
 featured: true
 draft: false
 tags:
@@ -34,10 +33,10 @@ By leveraging VBA and data modeling to manage the project's heavy information lo
 
 *(Below are snapshots of the finalized 3D model demonstrating the complexity of the burner panels, gas exhausts, and mixing stations).*
 
-![MASTEEL CGL 4](../../assets/images/Masteel-1.png)
+![Overal View of the Piping System Magnitude](../../assets/images/Masteel-1.png)
 
-![MASTEEL CGL 4](../../assets/images/Masteel-2.png)
+![Colling Water, Nitrogen, Exhaust gas and other service pipings for upper floor](../../assets/images/Masteel-2.png)
 
-![MASTEEL CGL 4](../../assets/images/Masteel-3.png)
+![Hydrogen Piping Station](../../assets/images/Masteel-3.png)
 
-![MASTEEL CGL 4](../../assets/images/Masteel-4.png)
+![Nitrogen Piping Station](../../assets/images/Masteel-4.png)
