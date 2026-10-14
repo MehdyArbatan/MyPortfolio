@@ -6,7 +6,7 @@ featured: true
 draft: false
 tags:
   - EPC Projects
-  - Plant complex
+  - Galvanizing Plant complex
   - ESAIN ESApro 3DP
   - Detail Design
   - France
