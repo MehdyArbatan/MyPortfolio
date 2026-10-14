@@ -1,6 +1,6 @@
 ---
 author: Mehdi Akbarzadeh
-pubDatetime: 2026-10-14T10:00:00Z
+pubDatetime: 2025-06-14T10:00:00Z
 title: "Ground Flare Skid Package: Piping Detail Design Under Shifting Vendor Data"
 featured: true
 draft: false
