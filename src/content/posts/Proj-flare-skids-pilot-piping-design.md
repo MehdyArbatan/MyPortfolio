@@ -2,7 +2,7 @@
 author: Mehdi Akbarzadeh
 pubDatetime: 2025-08-13T10:00:00Z
 title: "Flare Skids & Pilot Piping Design: Spatial Constraint Optimization & Automation"
-featured: false
+featured: true
 draft: false
 tags:
   - EPC Projects
